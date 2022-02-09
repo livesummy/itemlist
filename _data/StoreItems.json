@@ -1549,12 +1549,6 @@
 		"defname": "ArtificialNose"
 	},
 	{
-		"abr": "asari",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Alien_Asari"
-	},
-	{
 		"abr": "ash",
 		"price": 3,
 		"category": "Misc",
@@ -2675,36 +2669,6 @@
 		"price": 4,
 		"category": "Leathers",
 		"defname": "VMEu_Synthleather_Brown"
-	},
-	{
-		"abr": "bruteclaw",
-		"price": 157,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_BruteClaw"
-	},
-	{
-		"abr": "brutecleaver",
-		"price": 220,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_BruteCleaver"
-	},
-	{
-		"abr": "bruteenhancedarmour",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_BruteArmour"
-	},
-	{
-		"abr": "brutegreatknife",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_BruteGreatKnife"
-	},
-	{
-		"abr": "brutehammer",
-		"price": 283,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_BruteHammer"
 	},
 	{
 		"abr": "bryolux",
@@ -6193,42 +6157,6 @@
 		"defname": "Immunoenhancer"
 	},
 	{
-		"abr": "inactivebrute",
-		"price": 667,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveBrute"
-	},
-	{
-		"abr": "inactiveengineer",
-		"price": 1000,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveEngineer"
-	},
-	{
-		"abr": "inactivegrunt",
-		"price": 583,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveGrunt"
-	},
-	{
-		"abr": "inactivehound",
-		"price": 583,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveHound"
-	},
-	{
-		"abr": "inactivetesla",
-		"price": 1167,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveTesla"
-	},
-	{
-		"abr": "inactivewretch",
-		"price": 833,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveWretch"
-	},
-	{
 		"abr": "incendiarylauncher",
 		"price": 567,
 		"category": "Ranged weapons",
@@ -8749,18 +8677,6 @@
 		"defname": "CACooler"
 	},
 	{
-		"abr": "orb",
-		"price": 833,
-		"category": "Artifacts",
-		"defname": "DarkDescent_Orb"
-	},
-	{
-		"abr": "orbtable",
-		"price": 1175,
-		"category": "Production",
-		"defname": "DarkDescent_TableOrb"
-	},
-	{
 		"abr": "orbitalbombardmenttargeter",
 		"price": 2000,
 		"category": "Utility",
@@ -8807,12 +8723,6 @@
 		"price": 1925,
 		"category": "Organic optimizer",
 		"defname": "EPOE_OrganicOptimizingNanobots"
-	},
-	{
-		"abr": "orgone",
-		"price": 83,
-		"category": "Items",
-		"defname": "DarkDescent_Orgone"
 	},
 	{
 		"abr": "originalepoeworkbench(debug)",
@@ -10741,12 +10651,6 @@
 		"defname": "VFEPD_DecalWordRefinery"
 	},
 	{
-		"abr": "regenerativedecoction",
-		"price": 67,
-		"category": "Drugs",
-		"defname": "DarkDescent_DecoctionRegen"
-	},
-	{
 		"abr": "reinforcedbarrel",
 		"price": 1000,
 		"category": "Items",
@@ -10841,12 +10745,6 @@
 		"price": 2833,
 		"category": "Utility",
 		"defname": "VAEA_Apparel_RessurectorBelt"
-	},
-	{
-		"abr": "resurrectioninfusion",
-		"price": 833,
-		"category": "Items",
-		"defname": "DarkDescent_InfusionResurrection"
 	},
 	{
 		"abr": "resurrectormechserum",
@@ -11285,66 +11183,6 @@
 		"price": 833,
 		"category": "Drugs",
 		"defname": "RE_SerriceBrandy"
-	},
-	{
-		"abr": "servantbrute",
-		"price": 667,
-		"category": "Animals",
-		"defname": "DarkDescent_Brute"
-	},
-	{
-		"abr": "servantdampener",
-		"price": 367,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_Dampener"
-	},
-	{
-		"abr": "servantengineer",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "DarkDescent_Engineer"
-	},
-	{
-		"abr": "servantgrunt",
-		"price": 583,
-		"category": "Animals",
-		"defname": "DarkDescent_Grunt"
-	},
-	{
-		"abr": "servantharvester",
-		"price": 833,
-		"category": "Animals",
-		"defname": "DarkDescent_Harvester"
-	},
-	{
-		"abr": "servantharvesterdecoction",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "DarkDescent_DecoctionHarvester"
-	},
-	{
-		"abr": "servanthound",
-		"price": 583,
-		"category": "Animals",
-		"defname": "DarkDescent_Hound"
-	},
-	{
-		"abr": "servantinhibitor",
-		"price": 1925,
-		"category": "Bionic",
-		"defname": "DarkDescent_Inhibitor"
-	},
-	{
-		"abr": "servanttesla",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "DarkDescent_Tesla"
-	},
-	{
-		"abr": "servantwretch",
-		"price": 833,
-		"category": "Animals",
-		"defname": "DarkDescent_Wretch"
 	},
 	{
 		"abr": "serverrack",
@@ -13147,36 +12985,6 @@
 		"defname": "SculptureTerror"
 	},
 	{
-		"abr": "teslaaccelerator",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaFaster"
-	},
-	{
-		"abr": "teslacoolantrod",
-		"price": 260,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaCoolant"
-	},
-	{
-		"abr": "tesladisperser",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaLarger"
-	},
-	{
-		"abr": "teslaovercharger",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaStronger"
-	},
-	{
-		"abr": "teslasustainer",
-		"price": 433,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaSustainer"
-	},
-	{
 		"abr": "tetraslug",
 		"price": 6667,
 		"category": "Animals",
@@ -13601,24 +13409,6 @@
 		"price": 62,
 		"category": "Headgear",
 		"defname": "Apparel_VisageMask"
-	},
-	{
-		"abr": "vitae",
-		"price": 83,
-		"category": "Items",
-		"defname": "DarkDescent_Vitae"
-	},
-	{
-		"abr": "vitaeextractor",
-		"price": 167,
-		"category": "Items",
-		"defname": "DarkDescent_Extractor"
-	},
-	{
-		"abr": "vitaepoweredgenerator",
-		"price": 492,
-		"category": "Misc",
-		"defname": "DarkDescent_VitaePoweredGenerator"
 	},
 	{
 		"abr": "vitalsmonitor",
@@ -15019,40 +14809,16 @@
 		"defname": "TrapHeatPad"
 	},
 	{
-		"abr": "inactivegoliath",
-		"price": 1167,
-		"category": "Inactive orb servants",
-		"defname": "DarkDescent_InactiveGoliath"
-	},
-	{
 		"abr": "sawstrap",
 		"price": 383,
 		"category": "Misc",
 		"defname": "TrapSaws"
 	},
 	{
-		"abr": "servantgoliath",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "DarkDescent_Goliath"
-	},
-	{
 		"abr": "spikestrap",
 		"price": 123,
 		"category": "Misc",
 		"defname": "TrapSpikes"
-	},
-	{
-		"abr": "teslacannon",
-		"price": 667,
-		"category": "Prosthetic",
-		"defname": "DarkDescent_TeslaCannon"
-	},
-	{
-		"abr": "weyer'stonic",
-		"price": 1000,
-		"category": "Drugs",
-		"defname": "DarkDescent_WeyersTonic"
 	},
 	{
 		"abr": "yak",
@@ -20923,12 +20689,6 @@
 		"defname": "VME_FleshcraftedToe"
 	},
 	{
-		"abr": "orgoneextractor",
-		"price": 167,
-		"category": "Items",
-		"defname": "DarkDescent_OrgoneExtractor"
-	},
-	{
 		"abr": "alliancecompactsmg",
 		"price": 1883,
 		"category": "Ranged weapons",
@@ -21307,12 +21067,6 @@
 		"defname": "VFE_BlightAutoRepeller"
 	},
 	{
-		"abr": "bookshelf",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "VanillaBooksExpandedExpanded_Bookshelf"
-	},
-	{
 		"abr": "cannon",
 		"price": 262,
 		"category": "Security",
@@ -21433,12 +21187,6 @@
 		"defname": "TM_HungerTea"
 	},
 	{
-		"abr": "ideoligionbook",
-		"price": 2258,
-		"category": "Books",
-		"defname": "VanillaBooksExpandedExpanded_IdeoligionBook"
-	},
-	{
 		"abr": "immunitytea",
 		"price": 20,
 		"category": "Drugs",
@@ -21462,6 +21210,552 @@
 		"category": "Drugs",
 		"defname": "VBE_Lemonade"
 	},
+	{
+		"abr": "liquidfreezer",
+		"price": 1250,
+		"category": "Furniture",
+		"defname": "VFE_MechanoidLiquidFreezer"
+	},
+	{
+		"abr": "liquormixer",
+		"price": 4517,
+		"category": "Production",
+		"defname": "VFE_LiquorMixer"
+	},
+	{
+		"abr": "mechanitelfreinforcer",
+		"price": 1217,
+		"category": "Misc",
+		"defname": "VFE_MechaniteLFReinforcer"
+	},
+	{
+		"abr": "mechanitepants",
+		"price": 600,
+		"category": "Armor",
+		"defname": "VFE_MechanitePants"
+	},
+	{
+		"abr": "mechaniteunderarmor",
+		"price": 683,
+		"category": "Armor",
+		"defname": "VFE_MechaniteUnderArmor"
+	},
+	{
+		"abr": "mechanoidconstructionlamp",
+		"price": 492,
+		"category": "Misc",
+		"defname": "VFE_MechanoidConstructionLamp"
+	},
+	{
+		"abr": "medicinecontainer",
+		"price": 7583,
+		"category": "Misc",
+		"defname": "FT_ContainerMedical"
+	},
+	{
+		"abr": "nanitesampler",
+		"price": 7450,
+		"category": "Misc",
+		"defname": "VFEA_NaniteSampler"
+	},
+	{
+		"abr": "nanotechretractor",
+		"price": 5700,
+		"category": "Misc",
+		"defname": "VFEA_NanotechRetractor"
+	},
+	{
+		"abr": "neutroaminecontainertank",
+		"price": 12083,
+		"category": "Misc",
+		"defname": "FT_ContainerNeutroamine"
+	},
+	{
+		"abr": "privateerarmor",
+		"price": 4492,
+		"category": "Armor",
+		"defname": "VFEP_Apparel_Privateer"
+	},
+	{
+		"abr": "psytrainer(brainexploder)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_BrainExploder"
+	},
+	{
+		"abr": "psytrainer(heavypsychicslug)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_HeavyPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(lightpsychicslug)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_LightPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(mediumpsychicslug)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_MediumPsychicSlug"
+	},
+	{
+		"abr": "psytrainer(psychicchoke)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicChoke"
+	},
+	{
+		"abr": "psytrainer(psychicgrenade)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicGrenade"
+	},
+	{
+		"abr": "psytrainer(psychicpellets)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_CP_PsychicPellets"
+	},
+	{
+		"abr": "pyromechanoidchargingstation",
+		"price": 2800,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_PyroBase"
+	},
+	{
+		"abr": "raidermechanoidchargingstation",
+		"price": 3358,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_RaiderBase"
+	},
+	{
+		"abr": "rawdarkberries",
+		"price": 0,
+		"category": "Medical herbs",
+		"defname": "TM_RawDarkBerries"
+	},
+	{
+		"abr": "reaperclaw(left)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawLeft"
+	},
+	{
+		"abr": "reaperclaw(right)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawRight"
+	},
+	{
+		"abr": "reapercontrolnode",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperControlNode"
+	},
+	{
+		"abr": "reaperelementzerocore",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperElementZeroCore"
+	},
+	{
+		"abr": "reaperfuelcell",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperFuelCell"
+	},
+	{
+		"abr": "reaperhighbarrier",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperHighBarrier"
+	},
+	{
+		"abr": "reaperhulllayer",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper3x3Hull"
+	},
+	{
+		"abr": "reaperhullplate",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper2x2Hull"
+	},
+	{
+		"abr": "reaperindoctrinationcore",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperIndoctrinationCore"
+	},
+	{
+		"abr": "reaperlargeclaw(left)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawLargeLeft"
+	},
+	{
+		"abr": "reaperlargeclaw(right)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawLargeRight"
+	},
+	{
+		"abr": "reaperlargeramp(left)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper2x5RampLeft"
+	},
+	{
+		"abr": "reaperlargeramp(right)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper2x5RampRight"
+	},
+	{
+		"abr": "reaperlongrangemissilelauncher",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperLongRangeMissileLauncher"
+	},
+	{
+		"abr": "reaperlowbarrier",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperLowBarrier"
+	},
+	{
+		"abr": "reapermachinery",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperMachinery"
+	},
+	{
+		"abr": "reaperresourcecontainer",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperResourceContainer"
+	},
+	{
+		"abr": "reapershiphull",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper1x1Hull"
+	},
+	{
+		"abr": "reapersmallclaw(left)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawSmallLeft"
+	},
+	{
+		"abr": "reapersmallclaw(right)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperClawSmallRight"
+	},
+	{
+		"abr": "reapersmallramp(left)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper1x4RampLeft"
+	},
+	{
+		"abr": "reapersmallramp(right)",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_Reaper1x4RampRight"
+	},
+	{
+		"abr": "reaperstormgenerator",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperStormGenerator"
+	},
+	{
+		"abr": "reapersupportbeam",
+		"price": 48,
+		"category": "Misc",
+		"defname": "RE_ReaperSupportBeam"
+	},
+	{
+		"abr": "reaperunitstorage",
+		"price": 96,
+		"category": "Misc",
+		"defname": "RE_ReaperUnitStorage"
+	},
+	{
+		"abr": "redbarrel",
+		"price": 48,
+		"category": "Furniture",
+		"defname": "VFEPD_BarrelRedDeep"
+	},
+	{
+		"abr": "redpetals",
+		"price": 1,
+		"category": "Medical herbs",
+		"defname": "TM_RawRedPetals"
+	},
+	{
+		"abr": "refrigerator",
+		"price": 189,
+		"category": "Furniture",
+		"defname": "owl_refrigerator"
+	},
+	{
+		"abr": "resourcehalfcontainer",
+		"price": 2050,
+		"category": "Misc",
+		"defname": "FT_CargoContainerHalf"
+	},
+	{
+		"abr": "rum",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "VFEP_Rum"
+	},
+	{
+		"abr": "rumsuit",
+		"price": 350,
+		"category": "Apparel",
+		"defname": "VFEP_Apparel_Rumsuit"
+	},
+	{
+		"abr": "shrooms",
+		"price": 0,
+		"category": "Medical herbs",
+		"defname": "TM_RawShrooms"
+	},
+	{
+		"abr": "simulationdrive",
+		"price": 1875,
+		"category": "Misc",
+		"defname": "VFEA_SimulationDrive"
+	},
+	{
+		"abr": "smallinfernospewer",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_InfernoSpewerSmall"
+	},
+	{
+		"abr": "stabilisedmucusinducer",
+		"price": 3733,
+		"category": "Misc",
+		"defname": "VFEA_StabilisedMucusInducer"
+	},
+	{
+		"abr": "super-nanitecentrifuge",
+		"price": 1433,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteCentrifuge"
+	},
+	{
+		"abr": "super-nanitecontainment",
+		"price": 1325,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteContainment"
+	},
+	{
+		"abr": "super-nanitedialyzer",
+		"price": 1867,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteDialyzer"
+	},
+	{
+		"abr": "super-naniteinjectorpump",
+		"price": 1100,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteInjectorPump"
+	},
+	{
+		"abr": "super-nanites",
+		"price": 5667,
+		"category": "Items",
+		"defname": "VFEA_SuperNanites"
+	},
+	{
+		"abr": "survivalpackcontainer",
+		"price": 10083,
+		"category": "Misc",
+		"defname": "FT_CargoContainerMeal"
+	},
+	{
+		"abr": "vaultdoor",
+		"price": 240,
+		"category": "Misc",
+		"defname": "VFEA_VaultDoor"
+	},
+	{
+		"abr": "vaultwall",
+		"price": 48,
+		"category": "Misc",
+		"defname": "VFEA_VaultWall"
+	},
+	{
+		"abr": "walllamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp"
+	},
+	{
+		"abr": "walllamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Blue"
+	},
+	{
+		"abr": "walllamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Green"
+	},
+	{
+		"abr": "walllamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Red"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Misc",
+		"defname": "VFEP_Box_Autorifle"
+	},
+	{
+		"abr": "warcasketautorifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Autorifle"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VFEP_Box_Broadsword"
+	},
+	{
+		"abr": "warcasketbroadsword",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_Broadsword"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "VFEP_Box_CombatKnife"
+	},
+	{
+		"abr": "warcasketcombatknife",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "warcasketfoundry",
+		"price": 1042,
+		"category": "Misc",
+		"defname": "VFEP_WarcasketFoundry"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Misc",
+		"defname": "VFEP_Box_GrenadeLauncher"
+	},
+	{
+		"abr": "warcasketgrenadelauncher",
+		"price": 3150,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_GrenadeLauncher"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Misc",
+		"defname": "VFEP_Box_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketheavyflamer",
+		"price": 4083,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HeavyFlamer"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Misc",
+		"defname": "VFEP_Box_Minigun"
+	},
+	{
+		"abr": "warcasketminigun",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Minigun"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Misc",
+		"defname": "VFEP_Box_Slugthrower"
+	},
+	{
+		"abr": "warcasketslugthrower",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Slugthrower"
+	},
+	{
+		"abr": "warcasketuraniumslugrifle",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_UraniumSlugRifle"
+	},
+	{
+		"abr": "warcasketuraniumslugrifle",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_UraniumSlugRifle"
+	},
+	{
+		"abr": "watertank",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "VFEPD_WaterTankDeep"
+	},
+	{
+		"abr": "whitebroots",
+		"price": 1,
+		"category": "Medical herbs",
+		"defname": "TM_RawBroots"
+	},
+	{
+		"abr": "wortcontainertank",
+		"price": 5083,
+		"category": "Misc",
+		"defname": "FT_ContainerWort"
+	},
+	{
+		"abr": "yayocontainer",
+		"price": 26333,
+		"category": "Misc",
+		"defname": "FT_ContainerYayo"
+	},
+	{
+		"abr": "zombie",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Zombie"
+	},
+	{
+		"abr": "zombieleather",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "Leather_Zombie"
+	},
 	],
-	"total": 3670
+	"total": 3640
 }
